@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini2862007/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1922-count-good-numbers](https://github.com/Varshini2862007/leetcode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini2862007/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1922-count-good-numbers](https://github.com/Varshini2862007/leetcode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
