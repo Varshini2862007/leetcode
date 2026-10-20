@@ -11,14 +11,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Varshini2862007/leetcode/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini2862007/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Varshini2862007/leetcode/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini2862007/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Varshini2862007/leetcode/tree/master/0044-wildcard-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini2862007/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1922-count-good-numbers](https://github.com/Varshini2862007/leetcode/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -29,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini2862007/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Varshini2862007/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
