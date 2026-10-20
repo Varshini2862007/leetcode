@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Varshini2862007/leetcode/tree/master/0044-wildcard-matching) |
+| [0079-word-search](https://github.com/Varshini2862007/leetcode/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini2862007/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varshini2862007/leetcode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Varshini2862007/leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Varshini2862007/leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varshini2862007/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Varshini2862007/leetcode/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varshini2862007/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Varshini2862007/leetcode/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varshini2862007/leetcode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Varshini2862007/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
